@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3522e144-9f53-4c48-8e81-210814087363",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 49,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "MahjongVal_44_@2x": {
+      "ver": "1.0.4",
+      "uuid": "2a226b1d-12ac-4b78-9feb-134146dd89b6",
+      "rawTextureUuid": "3522e144-9f53-4c48-8e81-210814087363",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 4,
+      "width": 32,
+      "height": 52,
+      "rawWidth": 49,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7f96a87e-7ab1-47b0-97a2-240e369b4705",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 90,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "Flag_LuanMao_0_@2x": {
+      "ver": "1.0.4",
+      "uuid": "b04fadeb-f7d4-427c-a7b2-0211bfbee57f",
+      "rawTextureUuid": "7f96a87e-7ab1-47b0-97a2-240e369b4705",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 90,
+      "height": 54,
+      "rawWidth": 90,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

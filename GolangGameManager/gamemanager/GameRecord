@@ -1,0 +1,5 @@
+package gamemanager
+
+
+type GameRecord struct {
+}
